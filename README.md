@@ -4,3 +4,4 @@
 -featureA
 FIX-B
 -feature-C
+-feature-D
